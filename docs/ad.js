@@ -1,6 +1,6 @@
 
 var smallImg = "./small.png";
-var bigImg = "./big.png";
+var bigImg = "https://www.bessystem.com/content/c41e1c21f34d4db3a025f1cf0972224f/info";
 var display = 'block'
 
 if (/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent)) {
